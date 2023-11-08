@@ -1,0 +1,49 @@
+﻿InitialString,ReplacedString
+""" NA""", 
+National Park,NP
+Nartional Park,NP
+Creek,Ck
+Nature Reserve,NR
+State Forest,SF
+Stateforest,SF
+State Conservation Area,SCA
+reserve,Res
+Road,Rd
+Track,Tk
+Trail,Tk
+Generalised Site Info,
+[()],
+/, 
+",",
+"[""]",
+['],
+[.],
+Highway,Hwy
+mountain ,Mt 
+mountain,Mt
+mount ,Mt 
+Mount ,Mt 
+Lookout,Lkt
+Collection,
+point,Pt
+walk,Tk
+Tking,
+Australian National Botanic Gardens,ANBG
+Australian Botanic Gardens,ABG
+Royal Botanic Gardens Sydney,RBGSYD
+Royal Botanic Gardens SYD,RBGSYD
+Research centre for ecosystem resilience,ReCER
+;,
+:,
+  , 
+  , 
+  , 
+  , 
+"""-1.*""", 
+"""-2.*""",
+"""-3.*""",
+-, 
+ï¿½, 
+Along ,
+along ,
+â€™,
