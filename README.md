@@ -1,9 +1,9 @@
 # Filtering-Meta-Data
 
-Filters meta data for a list of NSW samples read from a file called "Target_samples"
-Download metadata from the rnr database for the genus of interest and label this as Database_File.csv
+Filters meta data for a list of NSW sample from a file called "Target_samples.csv"
+Download metadata from the rnr database for the genus of interest and name this file as "Database_File.csv"
 
-The script reads the "Replace_List.csv" to abbreviate any names and remove double spacing etc..
+The script reads the "Replace_List.csv" which abbreviates any names and removes double spacing etc. e.g. "National Park" to "NP"
 
 outputs will be in a "Filtered_Outputs" file
 
